@@ -5,6 +5,7 @@
 With the rapid growth of digital healthcare, the importance of data security has never been more paramount. However, ensuring the medical validity of synthetic data, which is often used for research and development purposes, remains a challenge. This competition seeks to bridge the gap between cybersecurity and medical accuracy, fostering a safer and more reliable digital healthcare environment.
 
 ## 🚀 Role and Contributions
+<img width="1187" alt="image" src="https://github.com/kimjh0107/2023_Synthetic_Data_Medical_Validity/assets/83206535/57af8316-1c8c-4fe4-94f2-88243e1d74b2">
 
 ### 1️⃣ Synthetic Data Generation
 - **Model Used**: REalTabFormer Model (Based on GPT-2)
